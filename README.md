@@ -3,7 +3,7 @@
 <html>
 <h1 align="center">Leeves Store Application</h1>
 
-<center>![logomal](https://github.com/kosmit10/Leeves---SwiftUI/assets/92518400/2ef7b3b5-ef51-4cd7-86ac-454e6978cfd3)</center>
+<center> ![logomal](https://github.com/kosmit10/Leeves---SwiftUI/assets/92518400/2ef7b3b5-ef51-4cd7-86ac-454e6978cfd3) </center>
 
 <h1 align="center">To find EFI, go to the Tags</h1>
 
