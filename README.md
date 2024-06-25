@@ -1,5 +1,3 @@
-# Leeves-SwiftUI
-
 <html>
 <h1>Leeves Store Application</h1>
 
