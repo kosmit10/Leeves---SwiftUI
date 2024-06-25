@@ -1,13 +1,13 @@
 # Leeves-SwiftUI
 
 <html>
-<h1 align="center">Leeves Store Application</h1>
+<h1>Leeves Store Application</h1>
 
 ![logomal](https://github.com/kosmit10/Leeves---SwiftUI/assets/92518400/2ef7b3b5-ef51-4cd7-86ac-454e6978cfd3)
 
-<h1 align="center">To find EFI, go to the Tags</h1>
+<h1>To find EFI, go to the Tags</h1>
 
-<center>![image](https://github.com/kosmit10/Leeves---SwiftUI/assets/92518400/98031fd6-a1df-4874-bf7e-107d279450e4)</center>
+![image](https://github.com/kosmit10/Leeves---SwiftUI/assets/92518400/98031fd6-a1df-4874-bf7e-107d279450e4)
 
 
 Welcome to the Leeves Store Application! This app is a comprehensive shopping solution for fans of the Leeves brand, developed with passion and precision using the latest technologies.
